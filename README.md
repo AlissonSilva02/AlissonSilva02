@@ -5,7 +5,7 @@
 - 🌱 Contate-me no email: alissonfariasdasilva2@gmail.com
 - 😄 Pronouns: Ele/Dele
 
-| <a href=""><img align="center" src="https://github-readme-stats.vercel.app/api?username=AlissonSilva02&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href=""><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlissonSilva02&layout=compact&theme=buefy&hide_border=true" /></a> |
+| <a href=""><img align="center" src="https://github-readme-stats.vercel.app/api?username=AlissonSilva02&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Alisson's github stats" /></a> | <a href=""><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlissonSilva02&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 #### Top Repositories
