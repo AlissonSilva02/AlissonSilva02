@@ -5,12 +5,10 @@
 - 🌱 Contate-me no email: alissonfariasdasilva2@gmail.com
 - 😄 Pronouns: Ele/Dele
 
-<div>
-<a href="https://beacons.ai/rafaballerini">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username-rafaballeriniäshow_icons-trueätheme-dracula&include_all_commits true count_private-true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username-rafaballerini&layout-compact&langs_count=16&theme-dracula"/>
-</a>
-</div>
+| <a href="https://github.com/AlissonSilva02/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=AlissonSilva02&show_icons=true&include_all_commits=true&theme=dracula&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/AlissonSilva02/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlissonSilva02&layout=compact&theme=dracula&hide_border=true" /></a> |
+| ------------- | ------------- |
+
+#### Top Repositories
 
 
 <div style="display: inline_block"><br>
